@@ -9,7 +9,7 @@ I'm really stuck on how to disable some features in gitlab, and to create number
 Today we (Elijah and I) learned how to use Screen
 
 ## 2020.10.25
-I learned how to use gitlab shortcuts using (www.shortcuffoo.com)[(this website]
+I learned how to use gitlab shortcuts using (https://www.shortcutfoo.com/) [(this website]
 ## 2020.10.20
 I learned how to type 50 WPM using (www.typing.io) [this website]
 
