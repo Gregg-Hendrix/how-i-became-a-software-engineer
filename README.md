@@ -3,6 +3,10 @@
 This is my learning journey
 
 
+
+## 2020.11.01
+I figured out how to change the settings on gitlab. >I also am learing about advanced search operators! Things like intitle: , inurl:, intext:, Filetype:
+
 ## 2020.10.31
 I'm really stuck on how to disable some features in gitlab, and to create numbered lists. I'm becoming more familiar with how to navigate gitlab. So that is a plus!
 ## 2020.10.28
