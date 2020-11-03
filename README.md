@@ -40,7 +40,7 @@ I read Peak, and wrote a review of what I learned in that book.
 - By accomplishing one step, I give feedback to my brain that I'm learning (good job). As the steps get more and more difficult, I still have that immediate feedback of "work on this/good job on that"
 
 4. ### I learned about the corpus callosum
- -(which is an organ that I deal with at my current job).
+ - (which is an organ that I deal with at my current job).
 
 5. ### In summary
--Intensely practice for at least 1 hour while making mental representations (push yourself), find a great teacher, and repeat this process until you've learned the skill!
+- Intensely practice for at least 1 hour while making mental representations (push yourself), find a great teacher, and repeat this process until you've learned the skill!
