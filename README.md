@@ -24,3 +24,35 @@ I learned how to type 50 WPM using (www.typing.io) [this website]
 
 ## 2020.10.14
 I read Peak, and wrote a review of what I learned in that book.
+
+## Review
+
+## What I Learned From Peak
+
+
+1.
+ >>>
+I learned so much from Peak!
+>>>
+ I learned that no one is just "born with a gift". That true heroes are made with deliberate practice. I learned that deliberate practice is done by making mental representations while you learn (not just plain repetition). You have to push yourself outside of your comfort zone, and stay there, to really level up your skill. If you practice a task that is "too easy" you are not challenging your brain to learn. Once I feel like I'm "uncomfortable" then I know that I'm on the path of learning!
+
+1.
+ >>>
+I learned that mentors/teachers play a huge role in learning.
+>>>
+ If I want to learn most efficiently, then I need to find someone who is excellent in their field (Elijah) and study/practice how they practiced! people who are "good at their craft" aren't necessarily " good teachers", so I'm happy that I lucked out with Elijah
+
+1.
+ >>>
+Learning comes in steps.
+>>> By accomplishing one step, I give feedback to my brain that I'm learning (good job). As the steps get more and more difficult, I still have that immediate feedback of "work on this/good job on that"
+
+1.
+ >>> 
+I learned about the corpus callosum
+>>> (which is an organ that I deal with at my current job).
+
+1.
+ >>> 
+In summary
+>>> : Intensely practice for at least 1 hour while making mental representations (push yourself), find a great teacher, and repeat this process until you've learned the skill!
