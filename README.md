@@ -43,4 +43,4 @@ I read Peak, and wrote a review of what I learned in that book.
  -(which is an organ that I deal with at my current job).
 
 5. ### In summary
-- Intensely practice for at least 1 hour while making mental representations (push yourself), find a great teacher, and repeat this process until you've learned the skill!
+-Intensely practice for at least 1 hour while making mental representations (push yourself), find a great teacher, and repeat this process until you've learned the skill!
