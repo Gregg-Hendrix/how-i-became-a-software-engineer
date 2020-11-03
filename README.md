@@ -2,7 +2,8 @@
 
 This is my learning journey
 
-
+## 2020.11.03
+So far I have learned about advanced search operators, how to type 50 WPM, deliberate practice, the benefits of shortcuts and gitlab flavored Markdowns. All of these skills will help me in my journey of becoming a Software Engineer. I learned that my tasks are going to be assigned to me, but they will not contain instructions on how to do the task (that is for me to figure out). I also learned that this is the format that replicates the "real world" experience. I will be assigned issues, and it will be my job to solve those issues!
 
 ## 2020.11.01
 I figured out how to change the settings on gitlab. 
