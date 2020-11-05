@@ -2,6 +2,15 @@
 
 This is my learning journey
 
+## 2020.11.05
+I'm working on the Google Power searching course. In my own time I'm trying to make myself more familiar with computer + website shortcuts. So far I'm learning gmail shortcuts, CopyQ shortcuts, and browser shortcuts! 
+### Gmail
+Learning how to compose messages, add BCC, and send messages. I'm trying to use my mouse as little as possible (it just saves me so much time)
+### Browser
+Learning how to switch tabs + windows
+### Google Power Search
+So far I'm on the second module. I'm really interested to learn how to image search. The implications of this feature astound me! I could image search mushrooms or poisonous plants! Wow!
+
 ## 2020.11.03
 So far I have learned about advanced search operators, how to type 50 WPM, deliberate practice, the benefits of shortcuts and gitlab flavored Markdowns. All of these skills will help me in my journey of becoming a Software Engineer. I learned that my tasks are going to be assigned to me, but they will not contain instructions on how to do the task (that is for me to figure out). I also learned that this is the format that replicates the "real world" experience. I will be assigned issues, and it will be my job to solve those issues!
 
