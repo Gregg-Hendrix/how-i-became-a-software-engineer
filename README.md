@@ -15,6 +15,10 @@ I learned a ton from the Google Power Searching course!
 
 In summery this course was a refresher on some topics, and an introduction to new topics! I really enjoyed this course.
 
+## CopyQ
+
+This program has changed my life! I've been using it for work, and it makes pasting different signatures + templates a breeze! At my home computer I created a "work" tab, so that I can be just as effective at home! This porgram is a lifesaver!
+
 ## 2020.11.05
 I'm working on the Google Power searching course. In my own time I'm trying to make myself more familiar with computer + website shortcuts. So far I'm learning gmail shortcuts, CopyQ shortcuts, and browser shortcuts! 
 ### Gmail
