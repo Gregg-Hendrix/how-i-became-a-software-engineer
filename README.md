@@ -2,6 +2,19 @@
 
 This is my learning journey
 
+
+## 2020.11.09
+I learned a ton from the Google Power Searching course! 
+
+1. I learned about site: (to search within a website)
+2. I learned about " -" which can exclude results.
+3. I also learned how to do an image search
+4. I learned how to search for a quote within a book.
+5. I learned how to vett a site by looking up the domain name
+6. I learned how to interpret a URL
+
+In summery this course was a refresher on some topics, and an introduction to new topics! I really enjoyed this course.
+
 ## 2020.11.05
 I'm working on the Google Power searching course. In my own time I'm trying to make myself more familiar with computer + website shortcuts. So far I'm learning gmail shortcuts, CopyQ shortcuts, and browser shortcuts! 
 ### Gmail
