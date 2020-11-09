@@ -23,6 +23,10 @@ This program has changed my life! I've been using it for work, and it makes past
 
 I love this program! I can make short little Gifs now!! I feel so techy!
 
+## ScreenShot Tool
+
+I used "snipping tool" because it is a default program in windows.
+
 ## 2020.11.05
 I'm working on the Google Power searching course. In my own time I'm trying to make myself more familiar with computer + website shortcuts. So far I'm learning gmail shortcuts, CopyQ shortcuts, and browser shortcuts! 
 ### Gmail
