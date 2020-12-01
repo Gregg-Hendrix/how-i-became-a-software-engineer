@@ -2,6 +2,17 @@
 
 This is my learning journey
 
+## 2020.12.01
+
+With Elijah's help, I install Arch on two of my laptops! I learned alot about boot modes, and how the locale is linked to the terminal. 
+
+### Key things that I learned during the installation of Arch
+
+1. Boot Modes are important
+>> For my dell laptop, I had to turn of Legacy ROM for the computer to boot up for Arch
+2.The boot order is important
+3. Patience is key
+4. You HAVE to look at multiple sources to find the solution to a problem. I used 3 installation guides to help me with Arch, once I'm "smarter" I could probably just use one. Though most guides assume that the user knows how to do things (like open nano) by default.
 
 ## 2020.11.09
 I learned a ton from the Google Power Searching course! 
