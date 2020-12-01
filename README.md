@@ -10,8 +10,11 @@ With Elijah's help, I install Arch on two of my laptops! I learned alot about bo
 
 1. Boot Modes are important
 >> For my dell laptop, I had to turn of Legacy ROM for the computer to boot up for Arch
+
 2.The boot order is important
+
 3. Patience is key
+
 4. You HAVE to look at multiple sources to find the solution to a problem. I used 3 installation guides to help me with Arch, once I'm "smarter" I could probably just use one. Though most guides assume that the user knows how to do things (like open nano) by default.
 
 ## 2020.11.09
