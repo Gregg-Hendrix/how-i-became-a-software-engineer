@@ -2,6 +2,18 @@
 
 This is my learning journey
 
+## 2020.12.03
+
+With Elijah's help I installed IntellJ. It turns out that copying and pasting code, is a bit more efficent than typing everything out! I did not understand how to to this step, because I typed the code incorrectly within my terminal. I am also having trouble understanding instructions. This is due to my lack of understanding of the terms used in software engineering. I am confident that I will soon understand these terms, and am very excited for that day!
+
+This week I learned how to open programs in the terminal, and also how to check the status of those aforementioned programs!
+
+I also created an AUR account, as well as an Arch Wiki account so that I can comment on wiki's!
+
+I learned that *install* = yay S _ command. 
+
+I learned that I need to be a bit more thorough on reading an article fully. I say this, because alot of the time when I ask Elijah for help, it turns out that I hadn't read far enough to see the solution staring me in the face! This time is teaching me alot of humility, because 90% of the time I have no idea what I'm doing. I'm understanding some of the concepts, but not all yet. I very happy that I'm on this learning journey, and I can tell that I have more knowledge than what I started out with. I am still a neophyte at programming though. So I aim to continue because every day I'm growing 1% smarter! This is the most fun that I've ever had learning (way more fun than traditional school). All of these skills have helped me in my current job, and has made me incredible effiecnt at computer based tasks (as well as learning in general). I'm very thankful for Elijah, and am blessed by his patience and wisdom.
+
 ## 2020.12.01
 
 With Elijah's help, I install Arch on two of my laptops! I learned alot about boot modes, and how the locale is linked to the terminal. 
