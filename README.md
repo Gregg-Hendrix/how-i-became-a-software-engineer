@@ -4,7 +4,7 @@ This is my learning journey
 
 ## 2021.1.03
 
-Wow its been a while since I updated this Readme! I have learned alot since my last update, so here we go! [#26]
+Wow its been a while since I updated this Readme! I have learned alot since my last update, so here we go! [https://gitlab.com/Gregg-Hendrix/how-i-became-a-software-engineer/-/issues/26]
 
 1. Typing q helps exit most programs
 
