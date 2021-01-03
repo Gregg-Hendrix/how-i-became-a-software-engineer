@@ -6,7 +6,7 @@ This is my learning journey
 
 Wow its been a while since I updated this Readme! I have learned alot since my last update, so here we go!
 
-1. Typibg q helps exit most programs
+1. Typing q helps exit most programs
 
 2. Typing "Man Man" in the terminal brings up the manual pager utils. Within this page I am able to do a lot of things! Some of which is change the search path, section order, output processor, and other behaviors related to the operations.
 
