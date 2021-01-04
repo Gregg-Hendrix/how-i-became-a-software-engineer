@@ -2,6 +2,9 @@
 
 This is my learning journey
 
+##2021.1.03
+Migrated "master" to "main" 
+
 ## 2021.1.03
 
 Wow its been a while since I updated this Readme! I have learned alot since my last update, so here we go! [https://gitlab.com/Gregg-Hendrix/how-i-became-a-software-engineer/-/issues/26]
@@ -10,9 +13,9 @@ Wow its been a while since I updated this Readme! I have learned alot since my l
 
 2. Typing "Man Man" in the terminal brings up the manual pager utils. Within this page I am able to do a lot of things! Some of which is change the search path, section order, output processor, and other behaviors related to the operations.
 
-3. Typing help help, shows breif summaries of builtin commands. I will be using this to find the native language of whatever sysmtem that I am using (without having to rely on the internet)
+3. Typing help help, shows brief summaries of builtin commands. I will be using this to find the native language of whatever system that I am using (without having to rely on the internet)
 
-4. Typing "Info Info" brings me to the info reader. This utility helps me with basic key bindings (whihc I'm sure that I will learn more about). I also learned that this utility will help me discover commands that defy categorization. What mosts interests me about this utility is the ability to change the colors used by info. In the future I'd love to customize my color theme. As this will help with internal representations.
+4. Typing "Info Info" brings me to the info reader. This utility helps me with basic key bindings (which I'm sure that I will learn more about). I also learned that this utility will help me discover commands that defy categorization. What mosts interests me about this utility is the ability to change the colors used by info. In the future I'd love to customize my color theme. As this will help with internal representations.
 
 5. I typed man --apropos help , and it pulled up a ton of programs that help with various tasks (that was cool)! I now know that " Unix_update (8) is a helper binary tha tupdates the password of a given user!
 
