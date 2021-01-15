@@ -2,6 +2,9 @@
 
 This is my learning journey
 
+##2021.1.15
+For the last two weeks, I've been practicing with codeacademy. I decided to record my progress there with gifs. Elijah showed me how to open the console log in a browser. So here is my practice for today: 
+
 ##2021.1.03
 Migrated "master" to "main" 
 
