@@ -2,6 +2,10 @@
 
 This is my learning journey
 
+## 2021.2.01
+
+I learned that repositories should be created in a folder where you can easily find them. I.E all repos are now in a folder called "projects"
+
 ##2021.1.15
 For the last two weeks, I've been practicing with codeacademy. I decided to record my progress there with gifs. Elijah showed me how to open the console log in a browser. So here is my practice for today: 
 
