@@ -2,6 +2,23 @@
 
 This is my learning journey
 
+## 2021.2.15
+
+I've just finished two git courses, 1 was on coursera and the other one was an udacity course. Here are some key takeaways that I learned!
+
+1. Frequently check the status of the repo by 'git status'
+1. git --stat (shows the amount each file was changed)
+1. git --whatchanged (gives more information about the file change)
+1. How to create a repo
+1. How to push a local repo to a remote repo (and vice versa but with the command "pull")
+1. How to use a text editor alongside git
+1. How to use github
+1. How to use gitlab
+1. How to use the terminal to interact with repo's
+1. How to use the general commands with git (diff, push, pull, fetch, log, --oneline, commit, add, merge, branch, reset, --amend, checkout, and more!)
+
+I've learned more than what I listed here, but those were the big key takeaways that I really enjoyed learning about :).
+
 ## 2021.2.01
 
 I learned that repositories should be created in a folder where you can easily find them. I.E all repos are now in a folder called "projects"
