@@ -2,6 +2,17 @@
 
 This is my learning journey
 
+## 2021.2.22
+
+I just completed a Udacity course on [HTML + CSS](https://classroom.udacity.com/courses/ud001). I learned how to:
+
+1. Create the standard format for HTML
+1. Write Inline CSS
+1. Link an External CSS file
+1. Create a webpage
+1. Customize a webpage
+
+
 ## 2021.2.15
 
 I've just finished two git courses [coursera](https://www.coursera.org/learn/introduction-git-github?authMode=login) + [udacity](https://classroom.udacity.com/courses/ud123/lessons/1b369991-f1ca-4d6a-ba8f-e8318d76322f/concepts/5f703930-a95e-47f0-a56b-702ed3a93741). Here are some key takeaways that I learned!
