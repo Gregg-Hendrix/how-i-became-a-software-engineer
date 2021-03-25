@@ -2,6 +2,10 @@
 
 This is my learning journey
 
+##2021 3.25
+
+It's been awhile since I have updated this. In my abscence I have completed the "Intro to Javascript Course", this was completed in the middle + end of February. I am now working on a Front End Nanodegree program with Udacity. Wow time has flown. Today I learned about tree [https://gitlab.com/Gregg-Hendrix/how-i-became-a-software-engineer/-/issues/31]. I am going to be customizing my shell today, and adding alias to help me speed up!
+
 ## 2021.2.22
 
 I just completed a Udacity course on [HTML + CSS](https://classroom.udacity.com/courses/ud001). I learned how to:
