@@ -2,7 +2,7 @@
 
 This is my learning journey
 
-## 2021 6.11
+## 2021.6.11
 
 It has been another stretch of time since I updated this ReadMe. I have found a REALLY exciting oppertunity to intern for Ultraworking! I am so excited, and hope that I land this beautiful oppertunity.
 
@@ -13,7 +13,7 @@ Here is what I have been working on (my board shows more detail)
 1. Udacity Front-End Engineering Course
 1. I have learned SO MUCH, and my board gives the finer details on what I have been doing on a day-by-day basis.
 
-##2021 3.25
+## 2021.3.25
 
 It's been awhile since I have updated this. In my abscence I have completed the "Intro to Javascript Course", this was completed in the middle + end of February. I am now working on a Front End Nanodegree program with Udacity. Wow time has flown. Today I learned about tree [https://gitlab.com/Gregg-Hendrix/how-i-became-a-software-engineer/-/issues/31]. I am going to be customizing my shell today, and adding alias to help me speed up!
 
