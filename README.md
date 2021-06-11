@@ -2,7 +2,7 @@
 
 This is my learning journey
 
-##2021 6.11
+## 2021 6.11
 
 It has been another stretch of time since I updated this ReadMe. I have found a REALLY exciting oppertunity to intern for Ultraworking! I am so excited, and hope that I land this beautiful oppertunity.
 
