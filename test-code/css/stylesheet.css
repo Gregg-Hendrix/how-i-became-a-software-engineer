@@ -1,0 +1,37 @@
+.title {
+
+text-align: center;
+  
+}
+
+.mode-light {
+  background: blanchedalmond;
+  color: aquamarine;
+}
+
+.mode-dark{
+
+  background: blueviolet;
+  color: beige;
+}
+
+#container{
+  text-align: center;
+
+}
+
+#box {
+ display: flexbox;
+ flex-direction: row;
+ -ms-flex-align: center;
+ 
+  
+}
+
+#text-field {
+  display: flexbox;
+  flex-direction: inherit;
+  margin: 20px;
+  padding: 5px;
+ 
+}
