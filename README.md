@@ -2,6 +2,12 @@
 
 This is my learning journey
 
+## 2021.8.26
+
+Wow, I have done SO MUCH since my last update. I completed LearnProgrammingOnline + LearnJavascriptOnline. I applied for my first job (I got turned down), though I am super grateful for that experience! I also created my 3'rd website [gregghendrix.com](https://www.gregghendrix.com/index.html). Right now I'm playing around with the Fetch API, to show live weather on my page! I'm having fun while learning again, and that is what counts! My focus is now on becoming a professional at Fetch, and applying for some more jobs ^_^.
+
+Check out my board for a more detailed breakdown on what I've been working on a day-to-day basis.
+
 ## 2021.6.11
 
 It has been another stretch of time since I updated this ReadMe. I have found a REALLY exciting oppertunity to intern for Ultraworking! I am so excited, and hope that I land this beautiful oppertunity.
